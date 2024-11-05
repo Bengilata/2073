@@ -1,1 +1,1 @@
-print("ben acıktım hamburger istiom");
+print("karakete");
