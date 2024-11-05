@@ -1,2 +1,1 @@
-print("ben acıktım patates yemek istiom");
 print("ben acıktım hamburger istiom");
